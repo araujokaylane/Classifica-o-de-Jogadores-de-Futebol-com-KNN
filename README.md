@@ -1,4 +1,4 @@
-#Classificação de Jogadores com KNN
+Classificação de Jogadores com KNN
 
 Este projeto apresenta um exemplo simples de classificação utilizando o algoritmo K-Nearest Neighbors (KNN).
 O objetivo é demonstrar como um modelo de Machine Learning pode classificar jogadores com base em atributos numéricos.
